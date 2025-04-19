@@ -104,19 +104,3 @@ npm run dev
 - Save interesting job postings
 - Direct application links
 
-## 👨‍💻 Development Team
-
-- **Sai Praneeth Reddy Dhadi** - Full Stack Developer (1602-23-733-038)
-- **Manideep Reddy Kasireddy** - Full Stack Developer (1602-23-733-022)
-- **Pravalika Batchu** - UI/UX Designer (1602-23-733-308)
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- Icon library provided by [Lucide Icons](https://lucide.dev/)
-- UI components from [shadcn/ui](https://ui.shadcn.com/)
-- 3D visualizations powered by [Three.js](https://threejs.org/)
