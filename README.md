@@ -5,7 +5,7 @@
   <h3>Build ATS-optimized resumes with AI assistance</h3>
 </div>
 
-![QWIK CV Banner](public/og-image.png)
+![QWIK CV Banner](qwixcv-main/public/og-image.png)
 
 ## 🚀 Project Overview
 
